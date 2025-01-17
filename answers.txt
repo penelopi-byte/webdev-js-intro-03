@@ -1,0 +1,5 @@
+
+1. When a number is added to a string in JavaScript, the result is a string because of type coercion. 
+2. Comparing different data types that are loosely equal can cause a big. 
+3. I think I find most operators confusing that's been shown. But I think the biggest one is Logical Operators, I think it's becacuse of the symbols used. They're harder to remeber for me. 
+4. You would use the Modulus operator when you need to find the remainder of a division, the modulus operator helps determine divisibility.
